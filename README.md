@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm @desinni, a Senior Front-end engineer, and a healthy lifestyle enthusiast.
+
+👩‍💻 You can learn more about me on my website [desinni.dev](https://desinni.dev)
+- My story of how I became a front-end engineer;
+- All my thoughts and experiences on programming, healthy lifestyle, and more can be found in my articles.
+
+✨ You can follow me on Twitter [@desinni](https://twitter.com/desinni)
+
+💌 I would love to chat with you! [Send me an email](mailto:laura.zumbakyte@gmail.com) to get in touch
+
 <!--
 **desinni/desinni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
